@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0205-isomorphic-strings) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0387-first-unique-character-in-a-string) |
 | [3731-find-missing-elements](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0169-majority-element) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0387-first-unique-character-in-a-string) |
 ## Two Pointers
 |  |
 | ------- |
@@ -49,4 +51,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0205-isomorphic-strings](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0387-first-unique-character-in-a-string) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
