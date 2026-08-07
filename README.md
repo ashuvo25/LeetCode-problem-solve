@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0238-product-of-array-except-self) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [3731-find-missing-elements](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/3731-find-missing-elements) |
@@ -56,4 +57,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0387-first-unique-character-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [0238-product-of-array-except-self](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0238-product-of-array-except-self) |
 <!---LeetCode Topics End-->
