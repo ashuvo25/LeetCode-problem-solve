@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0035-search-insert-position) |
 | [0169-majority-element](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0238-product-of-array-except-self) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0035-search-insert-position) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0350-intersection-of-two-arrays-ii) |
 ## Math
 |  |
