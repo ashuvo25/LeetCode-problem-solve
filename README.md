@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0035-search-insert-position) |
+| [0088-merge-sorted-array](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0238-product-of-array-except-self](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0238-product-of-array-except-self) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0215-kth-largest-element-in-an-array) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -42,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0088-merge-sorted-array) |
 | [0283-move-zeroes](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0344-reverse-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0350-intersection-of-two-arrays-ii) |
