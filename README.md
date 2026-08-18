@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1929-concatenation-of-array](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/1929-concatenation-of-array) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/3731-find-missing-elements) |
 ## Hash Table
 |  |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/0389-find-the-difference) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+| [3471-find-the-largest-almost-missing-integer](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3731-find-missing-elements](https://github.com/ashuvo25/LeetCode-problem-solve/tree/master/3731-find-missing-elements) |
 ## Divide and Conquer
 |  |
